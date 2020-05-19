@@ -9,6 +9,8 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
+[![Build Status](https://dev.azure.com/cerise-microsoft/parts_unlimited/_apis/build/status/hatguyatdisney.calculator?branchName=master)](https://dev.azure.com/cerise-microsoft/parts_unlimited/_build/latest?definitionId=3&branchName=master)
+
 To build, simply:
 
 1. Runs `npm install` to install dependencies.
